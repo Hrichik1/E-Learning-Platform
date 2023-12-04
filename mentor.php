@@ -222,7 +222,7 @@ button:hover {
         <a href="payment.php">Payment</a>
         <a href="profile.php">Profile</a>
         <a href="logout.php">Log out</a>
-        <!-- Add more navigation links as needed -->
+       
     </div>
 
     <div class="container">

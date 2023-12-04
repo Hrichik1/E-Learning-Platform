@@ -160,7 +160,9 @@ $res = mysqli_query($conn, $sql);
         <a href="Student.php"class="active">Student</a>
         <a href="mentor.php">Mentor</a>
         <a href="payment.php">Payment</a>
-        <!-- Add more navigation links as needed -->
+        <a href="profile.php">Profile</a>
+        <a href="logout.php">Log out</a>
+       
     </div>
     <h1 align="center">Student Information</h1>
 
