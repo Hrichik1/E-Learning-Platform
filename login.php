@@ -106,7 +106,7 @@
                     echo "<h1>Cookies Not Set</h1>";
                 }
 
-                header('location:../AdminPanel/homepage2.php');
+                header('location:../Admin/homepage2.php');
             }
         } else {
             echo '<h2 class="error-message" align="center">Error Username or Password, login failed</h2>';
